@@ -44,9 +44,9 @@ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-%234B0082.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
-🚀 Featured Projects
-🔐 SecurePass Pro — Password Security Analytics Dashboard
-![HTML5](https://img.shields.io/badge/HTML5-%232d1b69?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%234B0082?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%230e7490?style=flat-square&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%232d1b69?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-%234B0082?style=flat-square&logo=chartdotjs&logoColor=white)
+🚀 Featured Projects<br>
+🔐 SecurePass Pro — Password Security Analytics Dashboard <br>
+![HTML5](https://img.shields.io/badge/HTML5-%232d1b69?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%234B0082?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%230e7490?style=flat-square&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%232d1b69?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-%234B0082?style=flat-square&logo=chartdotjs&logoColor=white)<br>
 A modern SaaS-style security dashboard with real-time strength analysis, entropy calculation, crack-time estimation, and dynamic visualizations. Features light/dark themes and smart recommendations.
 ---
 📚 BookNest — Library Management CRUD App
