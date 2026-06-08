@@ -6,9 +6,12 @@
 Building things that matter — from Android apps to embedded systems<br/>
 Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 </div>
-<br/>
-<div align="center">
+<br>
+
+---
+
 ## Quick Links ~ Let's Connect
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffc0cb?style=for-the-badge)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-priya-n-r-61460b293/)
@@ -16,12 +19,17 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 [![GitHub](https://img.shields.io/badge/GitHub-e91e63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnupriyanr0912)
 </div>
 ---
+
+<div align="center">
 🔮 About Me
 	
 🎓 Education - B.Tech CSI, Presidency University, Bengaluru (2023–2027) <br>
 🔬 Research	Co-author — NISQ-scale Quantum Fourier Transforms (Qiskit 1.x) <br>
 💡 Interests	Web Dev · Android · Embedded Systems <br>
+
+</div>
 ---
+<div align="center">
 💻 Tech Stack <br>
 Programming <br>
 ![Java](https://img.shields.io/badge/Java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,6 +54,7 @@ Tools<br>
 ![Git](https://img.shields.io/badge/Git-%232d1b69.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%234B0082.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)<br>
+</div>
 ---
 🚀 Featured Projects<br>
 🔐 SecurePass Pro — Password Security Analytics Dashboard <br>
