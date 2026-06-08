@@ -18,6 +18,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 [![Email](https://img.shields.io/badge/Email-f06292?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupriya.n.r0912@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-e91e63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnupriyanr0912)
 </div>
+<br>
 ---
 
 <div align="center">
