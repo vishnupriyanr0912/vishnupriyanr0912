@@ -4,7 +4,7 @@
 <div align="center">
 ✦ Fourth-year B.Tech CSI Student, Presidency University, Bengaluru ✦ GPA: 8.26 ✦<br/>
 Building things that matter — from Android apps to embedded systems<br/>
-⚛️ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
+Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 </div>
 <br/>
 <div align="center">
@@ -19,30 +19,30 @@ Building things that matter — from Android apps to embedded systems<br/>
 🔬 Research	Co-author — NISQ-scale Quantum Fourier Transforms (Qiskit 1.x)
 💡 Interests	Web Dev · Android · Embedded Systems 
 ---
-💻 Tech Stack
-Programming
+💻 Tech Stack <br>
+Programming <br>
 ![Java](https://img.shields.io/badge/Java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%230e7490.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%232d1b69.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-%234B0082.svg?style=for-the-badge&logo=r&logoColor=white)
-Web Development
+![R](https://img.shields.io/badge/R-%234B0082.svg?style=for-the-badge&logo=r&logoColor=white)<br>
+Web Development<br>
 ![HTML5](https://img.shields.io/badge/HTML5-%230e7490.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%232d1b69.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B0082.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%230e7490.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-Mobile Development
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%230e7490.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+Mobile Development<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%232d1b69.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%234B0082.svg?style=for-the-badge&logo=react&logoColor=white)
-Database
+<br>Database <br>
 ![MySQL](https://img.shields.io/badge/MySQL-%230e7490.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%232d1b69.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-Embedded Systems
+![SQLite](https://img.shields.io/badge/SQLite-%232d1b69.svg?style=for-the-badge&logo=sqlite&logoColor=white) <br>
+Embedded Systems<br>
 ![Arduino](https://img.shields.io/badge/Arduino-%234B0082.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230e7490.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-Tools
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230e7490.svg?style=for-the-badge&logo=raspberrypi&logoColor=white) <br>
+Tools<br>
 ![Git](https://img.shields.io/badge/Git-%232d1b69.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%234B0082.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)<br>
 ---
 🚀 Featured Projects<br>
 🔐 SecurePass Pro — Password Security Analytics Dashboard <br>
