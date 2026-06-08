@@ -23,40 +23,29 @@ Building things that matter — from Android apps to embedded systems<br/>
 💃 Fun Fact	Classical Bharatanatyam dancer + Event Head @ cultural fest 🎭
 ---
 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%234B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%230e7490.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%232d1b69.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%230e7490.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%232d1b69.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%234B0082.svg?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%230e7490.svg?style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%232d1b69.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234B0082.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%230e7490.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%232d1b69.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%234B0082.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-%230e7490.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%232d1b69.svg?style=for-the-badge&logo=react&logoColor=white)
-![React](https://img.shields.io/badge/react-%234B0082.svg?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%230e7490.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%232d1b69.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%234B0082.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-%230e7490.svg?style=for-the-badge&logo=expo&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%232d1b69.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%230e7490.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%232d1b69.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%234B0082.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%230e7490.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%232d1b69.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%234B0082.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%230e7490.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/git-%232d1b69.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%234B0082.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%230e7490.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%232d1b69.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%234B0082.svg?style=for-the-badge&logo=Canva&logoColor=white)
+Programming
+![Java](https://img.shields.io/badge/Java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%230e7490.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%232d1b69.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-%234B0082.svg?style=for-the-badge&logo=r&logoColor=white)
+Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%230e7490.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%232d1b69.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%234B0082.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%230e7490.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Mobile Development
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%232d1b69.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%234B0082.svg?style=for-the-badge&logo=react&logoColor=white)
+Database
+![MySQL](https://img.shields.io/badge/MySQL-%230e7490.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%232d1b69.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-%234B0082.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230e7490.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+Tools
+![Git](https://img.shields.io/badge/Git-%232d1b69.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%234B0082.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 🚀 Featured Projects
 🔐 SecurePass Pro — Password Security Analytics Dashboard
@@ -64,23 +53,23 @@ Building things that matter — from Android apps to embedded systems<br/>
 A modern SaaS-style security dashboard with real-time strength analysis, entropy calculation, crack-time estimation, and dynamic visualizations. Features light/dark themes and smart recommendations.
 ---
 📚 BookNest — Library Management CRUD App
-![Java](https://img.shields.io/badge/Java-%230e7490?style=flat-square&logo=openjdk&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-%232d1b69?style=flat-square&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234B0082?style=flat-square&logo=mysql&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-%230e7490?style=flat-square&logo=apachetomcat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%230e7490?style=flat-square&logo=openjdk&logoColor=white) ![JSP](https://img.shields.io/badge/JSP%20%26%20Servlets-%232d1b69?style=flat-square&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234B0082?style=flat-square&logo=mysql&logoColor=white) ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%230e7490?style=flat-square&logo=apachetomcat&logoColor=white)
 Full-stack library management web app with CRUD operations, user authentication, and database integration via JDBC. Configured and deployed on Apache Tomcat.
 ---
 🧠 MindEase — Mental Health Journal App
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%232d1b69?style=flat-square&logo=androidstudio&logoColor=white) ![Java](https://img.shields.io/badge/Java-%234B0082?style=flat-square&logo=openjdk&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%230e7490?style=flat-square&logo=sqlite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%232d1b69?style=flat-square&logo=androidstudio&logoColor=white) ![Java](https://img.shields.io/badge/Java-%234B0082?style=flat-square&logo=openjdk&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%230e7490?style=flat-square&logo=sqlite&logoColor=white) ![Room DB](https://img.shields.io/badge/Room%20Database-%232d1b69?style=flat-square&logoColor=white)
 Native Android app for mental wellness tracking with mood monitoring, secure authentication, journaling, and offline-first Room Database architecture using DAO pattern.
 ---
 🤟 Sign Language Interpreter — Real-Time CV on Raspberry Pi
-![Python](https://img.shields.io/badge/Python-%232d1b69?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%234B0082?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%230e7490?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%234B0082?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230e7490?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%232d1b69?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%234B0082?style=flat-square&logoColor=white)
 Embedded real-time sign language recognition system using YOLO-based gesture detection and OpenCV for non-verbal communication support.
 ---
 🚤 Waste Collector Boat — Arduino IoT for Environment
-![C++](https://img.shields.io/badge/C++-%232d1b69?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-%234B0082?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230e7490?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-%232d1b69?style=flat-square&logo=arduino&logoColor=white)
 Autonomous IoT device collecting floating waste from water bodies using sensor-based motor control and wireless navigation for environmental sustainability.
 ---
 ⚛️ Quantum Fourier Transforms — Research Publication (2nd Author)
-![Qiskit](https://img.shields.io/badge/Qiskit%201.x-%230e7490?style=flat-square&logo=ibm&logoColor=white) ![AerSimulator](https://img.shields.io/badge/AerSimulator-%232d1b69?style=flat-square&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit%201.x-%234B0082?style=flat-square&logo=ibm&logoColor=white) ![AerSimulator](https://img.shields.io/badge/AerSimulator-%230e7490?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-%232d1b69?style=flat-square&logo=python&logoColor=white)
 Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum circuit optimization on near-term quantum devices under faculty supervision at Presidency University.
 ---
 📊 GitHub Stats
