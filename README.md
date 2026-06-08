@@ -14,7 +14,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 </div>
 ---
 🔮 About Me
-	<br>
+	
 🎓 Education - B.Tech CSI, Presidency University, Bengaluru (2023–2027) <br>
 🔬 Research	Co-author — NISQ-scale Quantum Fourier Transforms (Qiskit 1.x) <br>
 💡 Interests	Web Dev · Android · Embedded Systems <br>
