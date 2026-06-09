@@ -120,26 +120,34 @@ Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum
 
 ---
 
-📊 GitHub Stats
-<div align="center">
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnupriyanr0912&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=67e8f9&text_color=e2e8f0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnupriyanr0912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=67e8f9&text_color=e2e8f0"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyanr0912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=67e8f9&text_color=e2e8f0"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishnupriyanr0912&theme=tokyonight&hide_border=true&mode=weekly" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vishnupriyanr0912&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c084fc&fire=67e8f9&currStreakLabel=c084fc" />
 
 </div>
 
 ---
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=vishnupriyanr0912&color=4B0082&style=flat-square&label=Profile+Views)
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,30&section=footer" width="100%"/>
-"Always curious, always building." ✦ Open to collaborations & research opportunities!
+
+<img src="https://komarev.com/ghpvc/?username=vishnupriyanr0912&color=c084fc&style=flat-square&label=Profile+Views"/>
+
+<br><br>
+
+<i>"Always curious, always building."</i> ✦ Open to collaborations & research opportunities!
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,30&section=footer" width="100%"/>
