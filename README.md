@@ -146,7 +146,8 @@ Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum
 
 <br><br>
 
-<i>"Always curious, always building."</i> ✦ Open to collaborations & research opportunities!
+<i>"Always curious, always building."</i> <br>
+✦ Open to collaborations & research opportunities! ✦ 
 
 </div>
 
