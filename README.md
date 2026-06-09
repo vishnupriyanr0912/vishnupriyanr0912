@@ -46,23 +46,23 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 ![C++](https://img.shields.io/badge/C++-E9D5FF?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![R](https://img.shields.io/badge/R-A5F3FC?style=for-the-badge&logo=r&logoColor=black)
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%230e7490.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%232d1b69.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%234B0082.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%230e7490.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-99F6E4?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-E9D5FF?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-C4B5FD?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-A5F3FC?style=for-the-badge&logo=bootstrap&logoColor=black)
 ### Mobile Development
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%232d1b69.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%234B0082.svg?style=for-the-badge&logo=react&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-E9D5FF?style=for-the-badge&logo=androidstudio&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-C4B5FD?style=for-the-badge&logo=react&logoColor=black)
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-%230e7490.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%232d1b69.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-99F6E4?style=for-the-badge&logo=mysql&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-E9D5FF?style=for-the-badge&logo=sqlite&logoColor=black)
 ### Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-%234B0082.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230e7490.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-C4B5FD?style=for-the-badge&logo=arduino&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A5F3FC?style=for-the-badge&logo=raspberrypi&logoColor=black)
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%232d1b69.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%234B0082.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E9D5FF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-99F6E4?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 </div>
 <br/>
 
