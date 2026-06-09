@@ -13,6 +13,11 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 ## Quick Links ~ Let's Connect
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-E9D5FF?style=for-the-badge&logoColor=black)](...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=white)](...)
+[![Email](https://img.shields.io/badge/Email-99F6E4?style=for-the-badge&logo=gmail&logoColor=black)](...)
+[![GitHub](https://img.shields.io/badge/GitHub-A5F3FC?style=for-the-badge&logo=github&logoColor=black)](...)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffc0cb?style=for-the-badge)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-priya-n-r-61460b293/)
 [![Email](https://img.shields.io/badge/Email-f06292?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupriya.n.r0912@gmail.com)
