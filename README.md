@@ -22,7 +22,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 ---
 
-## About Me
+## ~About Me
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 ---
 
-## Tech Stack 
+## ~Tech Stack 
 
 <div align="center">
 
@@ -68,9 +68,9 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 ---
 
-## 🚀 Featured Projects
+## ~Featured Projects
 
-### 🔐 SecurePass Pro
+### SecurePass Pro
 *HTML5 · CSS3 · JavaScript · Bootstrap · Chart.js*
 
 - Modern SaaS-style password security dashboard.
@@ -80,7 +80,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 ---
 
-### 📚 BookNest
+### BookNest
 *Java · JSP · Servlets · MySQL · JDBC · Apache Tomcat*
 
 - Full-stack library management system.
@@ -90,7 +90,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 ---
 
-### 🧠 MindEase
+### MindEase
 *Android Studio · Java · XML · Room · SQLite*
 
 - Mental wellness journaling application.
@@ -100,28 +100,28 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
   
 ---
 
-### 🤟 Sign Language Interpreter — Real-Time CV on Raspberry Pi
+### Sign Language Interpreter — Real-Time CV on Raspberry Pi
 *Python · Raspberry Pi · YOLO · OpenCV*
 
 Embedded real-time sign language recognition system using YOLO-based gesture detection and OpenCV for non-verbal communication support.
 
 ---
 
-### 🚤 Waste Collector Boat — Arduino IoT for Environment
+### Waste Collector Boat — Arduino IoT for Environment
 *C++ · Arduino IDE · Sensors*
 
 Autonomous IoT device collecting floating waste from water bodies using sensor-based motor control and wireless navigation for environmental sustainability.
 
 ---
 
-### ⚛️ Quantum Fourier Transforms — Research Publication 
+### Quantum Fourier Transforms — Research Publication 
 *Python · Qiskit 1.x · AerSimulator · Quantum Computing*
 
 Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum circuit optimization on near-term quantum devices under faculty supervision at Presidency University.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
