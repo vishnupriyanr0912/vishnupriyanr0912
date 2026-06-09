@@ -132,7 +132,7 @@ Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishnupriyanr0912&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=67E8F9&currStreakLabel=C084FC"/>
+<img src="https://streak-stats.demolab.com?user=vishnupriyanr0912&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
