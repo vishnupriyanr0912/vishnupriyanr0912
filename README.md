@@ -67,26 +67,36 @@ Tools & Platforms<br>
 
 ---
 
-🚀 Featured Projects<br>
-🔐 SecurePass Pro — Password Security Analytics Dashboard <br>
-HTML5 · CSS3 · JavaScript · Bootstrap 5 · Chart.js
-A modern SaaS-style security dashboard with real-time strength analysis, entropy calculation, crack-time estimation, and dynamic visualizations. Features light/dark themes and smart recommendations.
-<br/>
+## 🚀 Featured Projects
+
+### 🔐 SecurePass Pro
+*HTML5 · CSS3 · JavaScript · Bootstrap · Chart.js*
+
+- Modern SaaS-style password security dashboard.
+- Performs entropy calculation and crack-time estimation.
+- Interactive charts with light/dark themes.
+- Smart password recommendations.
 
 ---
 
-📚 BookNest — Library Management CRUD App
-Java · JSP · Servlets · MySQL · Apache Tomcat · JDBC
-Full-stack library management web app with CRUD operations, user authentication, and database integration via JDBC. Configured and deployed on Apache Tomcat.
-<br/>
+### 📚 BookNest
+*Java · JSP · Servlets · MySQL · JDBC · Apache Tomcat*
+
+- Full-stack library management system.
+- Supports CRUD operations and user authentication.
+- JDBC-based database integration.
+- Deployed on Apache Tomcat.
 
 ---
 
-🧠 MindEase — Mental Health Journal App
-Android Studio · Java · XML · Room Database · SQLite
-Native Android app for mental wellness tracking with mood monitoring, secure authentication, journaling, and offline-first Room Database architecture using DAO pattern.
-<br/>
+### 🧠 MindEase
+*Android Studio · Java · XML · Room · SQLite*
 
+- Mental wellness journaling application.
+- Mood tracking and secure authentication.
+- Offline-first Room Database architecture.
+- DAO pattern implementation.
+  
 ---
 
 🤟 Sign Language Interpreter — Real-Time CV on Raspberry Pi
@@ -110,20 +120,21 @@ Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum
 
 ---
 
-💼 Experience
-🧑‍💻 Developer Intern — Winstrata Software Solutions Pvt. Ltd. (Jul – Aug 2025)
-Built Smack the Mole, an interactive browser game using React Native & CSS animations. Developed responsive forms with input validation and gained hands-on exposure to corporate development workflows.
-<br/>
-
----
-
 📊 GitHub Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=vishnupriyanr0912&theme=tokyonight&hide_border=false&bg_color=0d0d1a&border_color=4B0082&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vishnupriyanr0912&theme=tokyonight&hide_border=false&background=0d0d1a&border=4B0082&ring=c084fc&fire=22d3ee&currStreakLabel=c084fc&sideLabels=22d3ee&dates=94a3b8)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyanr0912&theme=tokyonight&hide_border=false&bg_color=0d0d1a&border_color=0e7490&title_color=22d3ee&text_color=e2e8f0&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnupriyanr0912&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=67e8f9&text_color=e2e8f0"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyanr0912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=67e8f9&text_color=e2e8f0"/>
+
 </div>
-<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vishnupriyanr0912&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=67E8F9&currStreakLabel=C084FC"/>
+
+</div>
 
 ---
 
