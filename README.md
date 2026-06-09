@@ -41,10 +41,10 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 <div align="center">
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%230e7490.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%232d1b69.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-%234B0082.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C4B5FD?style=for-the-badge&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-99F6E4?style=for-the-badge&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C++-E9D5FF?style=for-the-badge&logo=cplusplus&logoColor=black)
+![R](https://img.shields.io/badge/R-A5F3FC?style=for-the-badge&logo=r&logoColor=black)
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-%230e7490.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%232d1b69.svg?style=for-the-badge&logo=css3&logoColor=white)
