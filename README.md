@@ -99,24 +99,24 @@ Tools & Platforms<br>
   
 ---
 
-🤟 Sign Language Interpreter — Real-Time CV on Raspberry Pi
-Python · Raspberry Pi · YOLO · OpenCV
+### 🤟 Sign Language Interpreter — Real-Time CV on Raspberry Pi
+*Python · Raspberry Pi · YOLO · OpenCV*
+
 Embedded real-time sign language recognition system using YOLO-based gesture detection and OpenCV for non-verbal communication support.
-<br/>
 
 ---
 
-🚤 Waste Collector Boat — Arduino IoT for Environment
-C++ · Arduino IDE · Sensors
+### 🚤 Waste Collector Boat — Arduino IoT for Environment
+*C++ · Arduino IDE · Sensors*
+
 Autonomous IoT device collecting floating waste from water bodies using sensor-based motor control and wireless navigation for environmental sustainability.
-<br/>
 
 ---
 
-⚛️ Quantum Fourier Transforms — Research Publication 
-Python · Qiskit 1.x · AerSimulator · Quantum Computing
+### ⚛️ Quantum Fourier Transforms — Research Publication 
+*Python · Qiskit 1.x · AerSimulator · Quantum Computing*
+
 Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum circuit optimization on near-term quantum devices under faculty supervision at Presidency University.
-<br/>
 
 ---
 
