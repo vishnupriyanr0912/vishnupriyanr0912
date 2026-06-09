@@ -19,7 +19,9 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 [![GitHub](https://img.shields.io/badge/GitHub-e91e63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnupriyanr0912)
 </div>
 <br>
+
 ---
+
 🔮 About Me
 <div align="center">	
 🎓 Education - B.Tech CSI, Presidency University, Bengaluru (2023–2027) <br>
@@ -28,7 +30,9 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 </div>
 <br/>
+
 ---
+
 💻 Tech Stack <br>
 <div align="center">
 
@@ -57,43 +61,59 @@ Tools & Platforms<br>
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230e7490.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </div>
 <br/>
+
 ---
+
 🚀 Featured Projects<br>
 🔐 SecurePass Pro — Password Security Analytics Dashboard <br>
 HTML5 · CSS3 · JavaScript · Bootstrap 5 · Chart.js
 A modern SaaS-style security dashboard with real-time strength analysis, entropy calculation, crack-time estimation, and dynamic visualizations. Features light/dark themes and smart recommendations.
 <br/>
+
 ---
+
 📚 BookNest — Library Management CRUD App
 Java · JSP · Servlets · MySQL · Apache Tomcat · JDBC
 Full-stack library management web app with CRUD operations, user authentication, and database integration via JDBC. Configured and deployed on Apache Tomcat.
 <br/>
+
 ---
+
 🧠 MindEase — Mental Health Journal App
 Android Studio · Java · XML · Room Database · SQLite
 Native Android app for mental wellness tracking with mood monitoring, secure authentication, journaling, and offline-first Room Database architecture using DAO pattern.
 <br/>
+
 ---
+
 🤟 Sign Language Interpreter — Real-Time CV on Raspberry Pi
 Python · Raspberry Pi · YOLO · OpenCV
 Embedded real-time sign language recognition system using YOLO-based gesture detection and OpenCV for non-verbal communication support.
 <br/>
+
 ---
+
 🚤 Waste Collector Boat — Arduino IoT for Environment
 C++ · Arduino IDE · Sensors
 Autonomous IoT device collecting floating waste from water bodies using sensor-based motor control and wireless navigation for environmental sustainability.
 <br/>
+
 ---
+
 ⚛️ Quantum Fourier Transforms — Research Publication 
 Python · Qiskit 1.x · AerSimulator · Quantum Computing
 Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum circuit optimization on near-term quantum devices under faculty supervision at Presidency University.
 <br/>
+
 ---
+
 💼 Experience
 🧑‍💻 Developer Intern — Winstrata Software Solutions Pvt. Ltd. (Jul – Aug 2025)
 Built Smack the Mole, an interactive browser game using React Native & CSS animations. Developed responsive forms with input validation and gained hands-on exposure to corporate development workflows.
 <br/>
+
 ---
+
 📊 GitHub Stats
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=vishnupriyanr0912&theme=tokyonight&hide_border=false&bg_color=0d0d1a&border_color=4B0082&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&include_all_commits=true&count_private=true)<br/>
@@ -101,7 +121,9 @@ Built Smack the Mole, an interactive browser game using React Native & CSS anima
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyanr0912&theme=tokyonight&hide_border=false&bg_color=0d0d1a&border_color=0e7490&title_color=22d3ee&text_color=e2e8f0&include_all_commits=true&count_private=true&layout=compact)
 </div>
 <br/>
+
 ---
+
 <div align="center">
 ![](https://komarev.com/ghpvc/?username=vishnupriyanr0912&color=4B0082&style=flat-square&label=Profile+Views)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,30&section=footer" width="100%"/>
