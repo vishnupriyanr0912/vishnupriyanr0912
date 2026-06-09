@@ -121,7 +121,7 @@ Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum
 
 ---
 
-## GitHub Stats
+## ~GitHub Stats
 
 <div align="center">
 
