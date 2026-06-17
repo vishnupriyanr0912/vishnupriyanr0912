@@ -52,12 +52,18 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 ![TypeScript](https://img.shields.io/badge/TypeScript-BDD7FF?style=for-the-badge&logo=typescript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-A5F3FC?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-D8B4FE?style=for-the-badge&logo=php&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-A5F3FC?style=for-the-badge&logo=chartdotjs&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-D8B4FE?style=for-the-badge&logo=jquery&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-BDD7FF?style=for-the-badge&logo=threedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-99F6E4?style=for-the-badge&logo=vite&logoColor=black)
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-E9D5FF?style=for-the-badge&logo=androidstudio&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-C4B5FD?style=for-the-badge&logo=react&logoColor=black)
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-99F6E4?style=for-the-badge&logo=mysql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-E9D5FF?style=for-the-badge&logo=sqlite&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-C4B5FD?style=for-the-badge&logo=firebase&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-E9D5FF?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ### Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-C4B5FD?style=for-the-badge&logo=arduino&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A5F3FC?style=for-the-badge&logo=raspberrypi&logoColor=black)
