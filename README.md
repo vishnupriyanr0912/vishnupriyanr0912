@@ -49,7 +49,9 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 ![HTML5](https://img.shields.io/badge/HTML5-99F6E4?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-E9D5FF?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C4B5FD?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-BDD7FF?style=for-the-badge&logo=typescript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-A5F3FC?style=for-the-badge&logo=bootstrap&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-D8B4FE?style=for-the-badge&logo=php&logoColor=black)
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-E9D5FF?style=for-the-badge&logo=androidstudio&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-C4B5FD?style=for-the-badge&logo=react&logoColor=black)
