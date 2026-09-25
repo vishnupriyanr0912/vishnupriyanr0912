@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,30&text=Vishnu%20Priya%20N%20R&fontSize=42&fontColor=e8d5f5&fontAlignY=38&desc=Developer%20%7C%20Researcher%20%7C%20Builder&descAlignY=58&descColor=7ecece&animation=fadeIn" width="100%"/>
 </div>
 <div align="center">
-✦ Fourth-year B.Tech CSI Student, Presidency University, Bengaluru ✦ GPA: 8.26 ✦<br/>
+✦ Fourth-year B.Tech CSI Student, Presidency University, Bengaluru ✦<br/>
 Building things that matter — from Android apps to embedded systems<br/>
 Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 </div>
