@@ -3,8 +3,7 @@
 </div>
 <div align="center">
 ✦ Fourth-year B.Tech CSI Student, Presidency University, Bengaluru ✦<br/>
-Building things that matter — from Android apps to embedded systems<br/>
-Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
+Building things that matter!<br/>
 </div>
 <br>
 
@@ -28,9 +27,7 @@ Research Co-author · Quantum Computing · NISQ-scale QFT · Qiskit 1.x
 
 **B.Tech CSI**, Presidency University, Bengaluru (2023–2027)
 
-**Research Co-author** — NISQ-scale Quantum Fourier Transforms *(Qiskit 1.x)*
-
-**Interests** — Web Development · Android · Embedded Systems
+**Interests** — Web Development · Full Stack Development · Android 
 
 </div>
 
