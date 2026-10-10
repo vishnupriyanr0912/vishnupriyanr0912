@@ -119,13 +119,6 @@ Autonomous IoT device collecting floating waste from water bodies using sensor-b
 
 ---
 
-### Quantum Fourier Transforms — Research Publication 
-*Python · Qiskit 1.x · AerSimulator · Quantum Computing*
-
-Co-authored research on NISQ-scale Quantum Fourier Transforms, exploring quantum circuit optimization on near-term quantum devices under faculty supervision at Presidency University.
-
----
-
 ## ~GitHub Stats
 
 <div align="center">
